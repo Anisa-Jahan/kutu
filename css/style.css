@@ -2,5 +2,15 @@
     color: brown;    
 }
 #about-box{
-    box-shadow: 10px 10px 8px 10px #888888;
+    box-shadow: 10px 10px 8px 10px #bebcbc;
+}
+p{
+    font-size: 30px;
+}
+.icon{
+    height: 50px;
+    width: 50px;
+}
+.box{
+    /* box-shadow: 5px 10px #bebcbc; */
 }
